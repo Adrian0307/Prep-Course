@@ -1,0 +1,9 @@
+tarea 
+variable:  es una manera de crear un espacion para poder guardar cosas como por ejemplo decimos variable carro para referirnos a un ferrari
+strings : son el texto que me va a aparecer en pantalla y se escribe entre conmillas para ser identificados como texto que aparecera en la interfaz
+funciones : sirve para ahorrar el trabajo de repetir el mismo comando una y otra vez, esta dividida en argumentos el cual nos dice cual es 
+la base que debe cumplir nuestra funcion es decir a la funcion le agregamos una variable. tambien estan los returns que es lo que queremos que nuestra funcion nos muestre o de por ejemplo si tu tienes
+1+2 tu quieres que nos de el resultado es decir 3 entonces escribimos return 1+2 y nos dara el resultado
+declaraciones if : es un condicional que nos dice quee si se cumple lo que se esta pidiendo entonces es verdad de lo contrario sera falso o un error, 
+estos se llama controladores de flujo
+los valore booleanos: es basicamente lo que define si e s true o false por ejemplo si tenemos 1<2 so es verdadero pero si tenemos 3>5 es falso
